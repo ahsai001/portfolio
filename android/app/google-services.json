@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "17091467962",
+    "project_id": "portfolio-7ee13",
+    "storage_bucket": "portfolio-7ee13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17091467962:android:ecfd4c6dd4629c05268083",
+        "android_client_info": {
+          "package_name": "com.ahsailabs.portfolio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17091467962-09knlhvuhfbp7snuj1e8er3cme3d10v3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZZ7_qVHPJeckWNxhp_jeUhGHIiGRi1PU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17091467962-09knlhvuhfbp7snuj1e8er3cme3d10v3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "17091467962-cv2emcs3dts2io9ha9b2sirpqe6bk5dv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ahsailabs.portfolio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
